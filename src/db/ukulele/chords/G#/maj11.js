@@ -1,14 +1,14 @@
 export default {
-  key: 'Ab',
+  key: 'G#',
   suffix: 'maj11',
   positions: [
     {
       frets: '3133',
-      fingers: '2134'
+      fingers: '2134',
     },
     {
       frets: '5764',
-      fingers: '2134'
-    }
-  ]
-};
+      fingers: '2134',
+    },
+  ],
+}

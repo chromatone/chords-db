@@ -1,24 +1,24 @@
 export default {
-  key: 'Bb',
+  key: 'A#',
   suffix: 'maj7b5',
   positions: [
     {
       frets: 'x1223x',
-      fingers: '012340'
+      fingers: '012340',
     },
     {
       frets: '657755',
       fingers: '213411',
       barres: 5,
-      capo: true
+      capo: true,
     },
     {
       frets: '6777x0',
-      fingers: '123400'
+      fingers: '123400',
     },
     {
       frets: 'xx89aa',
-      fingers: '001234'
-    }
-  ]
-};
+      fingers: '001234',
+    },
+  ],
+}

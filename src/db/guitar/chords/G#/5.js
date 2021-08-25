@@ -1,18 +1,18 @@
 export default {
-  key: 'Ab',
+  key: 'G#',
   suffix: '5',
   positions: [
     {
       frets: '46xxxx',
-      fingers: '130000'
+      fingers: '130000',
     },
     {
       frets: 'xbdxxx',
-      fingers: '013000'
+      fingers: '013000',
     },
     {
       frets: '466xxx',
-      fingers: '134000'
-    }
-  ]
-};
+      fingers: '134000',
+    },
+  ],
+}

@@ -1,26 +1,26 @@
 export default {
-  key: 'Db',
+  key: 'C#',
   suffix: '9',
   positions: [
     {
       frets: '1312',
       fingers: '1312',
       barres: 1,
-      capo: true
+      capo: true,
     },
     {
       frets: '4546',
       fingers: '1213',
       barres: 4,
-      capo: true
+      capo: true,
     },
     {
       frets: '8878',
-      fingers: '2314'
+      fingers: '2314',
     },
     {
       frets: 'abbb',
-      fingers: '1234'
-    }
-  ]
-};
+      fingers: '1234',
+    },
+  ],
+}

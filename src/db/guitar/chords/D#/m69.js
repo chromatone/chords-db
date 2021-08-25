@@ -1,25 +1,25 @@
 export default {
-  key: 'Eb',
+  key: 'D#',
   suffix: 'm69',
   positions: [
     {
       frets: '2x1311',
       fingers: '201311',
-      barres: 1
+      barres: 1,
     },
     {
       frets: 'x6456x',
-      fingers: '031240'
+      fingers: '031240',
     },
     {
       frets: 'b9aa99',
       fingers: '412300',
       barres: 9,
-      capo: true
+      capo: true,
     },
     {
       frets: 'xxdbdd',
-      fingers: '002134'
-    }
-  ]
-};
+      fingers: '002134',
+    },
+  ],
+}

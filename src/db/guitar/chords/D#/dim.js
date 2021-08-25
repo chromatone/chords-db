@@ -1,22 +1,22 @@
 export default {
-  key: 'Eb',
+  key: 'D#',
   suffix: 'dim',
   positions: [
     {
       frets: 'xx12x2',
-      fingers: '001203'
+      fingers: '001203',
     },
     {
       frets: 'x64x45',
-      fingers: '041023'
+      fingers: '041023',
     },
     {
       frets: 'x6787x',
-      fingers: '012430'
+      fingers: '012430',
     },
     {
       frets: 'b9xbax',
-      fingers: '310420'
-    }
-  ]
-};
+      fingers: '310420',
+    },
+  ],
+}

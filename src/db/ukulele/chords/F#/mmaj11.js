@@ -1,21 +1,21 @@
 export default {
-  key: 'Gb',
+  key: 'F#',
   suffix: 'mmaj11',
   positions: [
     {
       frets: '2542',
       fingers: '1431',
       barres: 2,
-      capo: true
+      capo: true,
     },
     {
       frets: 'dbdc',
-      fingers: '3142'
+      fingers: '3142',
     },
     {
       frets: 'ebdb',
       fingers: '4131',
-      barres: 11
-    }
-  ]
-};
+      barres: 11,
+    },
+  ],
+}

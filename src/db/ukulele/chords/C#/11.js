@@ -1,10 +1,10 @@
 export default {
-  key: 'Db',
+  key: 'C#',
   suffix: '11',
   positions: [
     {
       frets: '8678',
-      fingers: '3124'
-    }
-  ]
-};
+      fingers: '3124',
+    },
+  ],
+}

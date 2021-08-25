@@ -1,23 +1,23 @@
 export default {
-  key: 'Ab',
+  key: 'G#',
   suffix: 'aug9',
   positions: [
     {
       frets: '3423',
-      fingers: '2413'
+      fingers: '2413',
     },
     {
       frets: '5667',
       fingers: '1223',
-      barres: 6
+      barres: 6,
     },
     {
       frets: '9a89',
-      fingers: '2413'
+      fingers: '2413',
     },
     {
       frets: 'bccd',
-      fingers: '1234'
-    }
-  ]
-};
+      fingers: '1234',
+    },
+  ],
+}
